@@ -1,0 +1,93 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #edf7ff;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  /* Form Styles */
+  form {
+    margin-bottom: 20px;
+  }
+  
+  /* Table Styles */
+  table {
+    width: 100%;
+  }
+  
+  table th, table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  table th {
+    background-color: #f2f2f2;
+  }
+  
+  table tbody tr:hover {
+    background-color: #f2f2f2;
+  }
+  
+  /* Button Styles */
+  .btn-success {
+    width: 10%;
+  }
+  
+  .btn-danger {
+    width: 100%;
+  }
+  
+  /* Link Styles */
+  a {
+    color: #054977;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #2980b9;
+  }
+  
+  /* Example CSS styles */
+.form-group {
+    margin-bottom: 1rem; /* Adjust as needed */
+  }
+  
+  .form-group label {
+    font-weight: bold; /* Example: Make labels bold */
+  }
+  
+  .form-group input[type="text"],
+  .form-group input[type="url"] {
+    width: calc(100% - 90px); /* Adjust input width */
+    margin-right: 10px; /* Adjust spacing between input and button */
+  }
+  
+  .btn-success {
+    /* Example: Adjust button styles */
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-success:hover {
+    /* Example: Button hover state */
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+  
+  body {
+    background-color: #f5f5dc;
+}
+

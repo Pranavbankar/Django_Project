@@ -1,0 +1,60 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  /* Form Styles */
+  form {
+    margin-bottom: 20px;
+  }
+  
+  /* Table Styles */
+  table {
+    width: 100%;
+  }
+  
+  table th, table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  table th {
+    background-color: #f2f2f2;
+  }
+  
+  table tbody tr:hover {
+    background-color: #f2f2f2;
+  }
+  
+  /* Button Styles */
+  .btn-success {
+    width: 100%;
+  }
+  
+  .btn-danger {
+    width: 100%;
+  }
+  
+  /* Link Styles */
+  a {
+    color: #3498db;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #2980b9;
+  }
+  
